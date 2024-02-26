@@ -1,0 +1,6 @@
+:host{
+  width: 100%;
+}
+.chat-active {
+  border-color: #665dfe !important;
+}
